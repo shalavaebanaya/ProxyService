@@ -27,6 +27,7 @@ This makes Roblox Http requests more complete by adding support for the followin
 - Click "Deploy app". Don't touch any of the variables unless you know what you're doing.
 - Click view and copy the URL.
 - Click manage app and go to `Settings > Reveal Config Vars` and copy the ACCESS_KEY.
+- e
 
 That's it.
 
